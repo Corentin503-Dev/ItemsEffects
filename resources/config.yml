@@ -1,0 +1,7 @@
+items:
+  - 1:0:speed:29:1:false
+  - 5:0:protection:15:0:true
+  - 183:0:regeneration:7:1:true
+  - 219:0:fire_resistance:10:3:false
+
+  #id:meta:effect:time(second):amplifier:particle
