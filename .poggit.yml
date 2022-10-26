@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Corentin503-Dev/ItemsEffects
+build-by-default: true
+branches:
+- main
+projects:
+  ItemsEffects:
+    path: ""
+...
